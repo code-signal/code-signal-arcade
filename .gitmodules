@@ -1,0 +1,30 @@
+[submodule "code-signal-arcade-intro"]
+	path = code-signal-arcade-intro
+	url = https://github.com/code-signal/code-signal-arcade-intro.git
+[submodule "code-signal-arcade-thecore"]
+	path = code-signal-arcade-thecore
+	url = https://github.com/code-signal/code-signal-arcade-thecore.git
+[submodule "code-signal-arcade-databases"]
+	path = code-signal-arcade-databases
+	url = https://github.com/code-signal/code-signal-arcade-databases.git
+[submodule "code-signal-arcade-graphs"]
+	path = code-signal-arcade-graphs
+	url = https://github.com/code-signal/code-signal-arcade-graphs.git
+[submodule "code-signal-arcade-python"]
+	path = code-signal-arcade-python
+	url = https://github.com/code-signal/code-signal-arcade-python.git
+[submodule "code-signal-arcade-actual"]
+	path = code-signal-arcade-actual
+	url = https://github.com/code-signal/code-signal-arcade-actual.git
+[submodule "code-signal-arcade-practice"]
+	path = code-signal-arcade-practice
+	url = https://github.com/code-signal/code-signal-arcade-practice.git
+[submodule "code-signal-arcade-bloomtech"]
+	path = code-signal-arcade-bloomtech
+	url = https://github.com/code-signal/code-signal-arcade-bloomtech.git
+[submodule "leetcode-arcade-practice"]
+	path = leetcode-arcade-practice
+	url = https://github.com/leetcode-Arcade/leetcode-arcade-practice.git
+[submodule "02-javascript-algorithms-and-data-structures"]
+	path = 02-javascript-algorithms-and-data-structures
+	url = https://github.com/freeCodeChallenges/02-javascript-algorithms-and-data-structures.git
